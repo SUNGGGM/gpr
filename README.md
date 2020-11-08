@@ -5,6 +5,4 @@ pr practice
 this is first commit
 
 ## SUNGGGM
-second commit for pr, and something else
-
-other commit
+my commit is my commit
